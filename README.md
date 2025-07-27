@@ -3,10 +3,10 @@
 **IntelliSafe** is a modular, end-to-end prototype system designed to enhance campus security by combining AI-driven analytics, RFID-based emergency logic, and virtual drone patrol simulations. This README guides presenters, evaluators, and developers through the repository structure, setup steps, and a suggested demo flow.
 
 # Video links:
-🎬 [Student app video](StudentApp/app-demo.mp4)
+
 
 🎬 [STUDEN APP DEMO](https://drive.google.com/file/d/1gtr3NkLJ3RYGVcfHeC25SI3CYkBZKmyV/view?usp=drive_link)
-🎬 [Drone Virtual simulation video](drone-sim-app/drone_demo(1).mp4)
+🎬 [Drone Virtual simulation video](https://drive.google.com/file/d/1twRO0MT6yj-fTF7XfS3YZaCMWhmYjBGn/view?usp=drive_link))
 
 🎬 [Drone video footage simulation](drone-sim-app/drone_night_feed_demo.mp4)
 ---
