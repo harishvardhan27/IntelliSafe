@@ -6,11 +6,12 @@ A lightweight React Native (Expo) app for campus safety. Students can authentica
 - File an incident report.
 - See emergency contact numbers.
 
-![App Screenshot](https://github.com/harishvardhan27/IntelliSafe/tree/main/StudentApp/assets/IMG-20250727-WA0001.jpg)
-![App Screenshot](https://github.com/harishvardhan27/IntelliSafe/tree/main/StudentApp/assets/IMG-20250727-WA0002.jpg)
-![App Screenshot](https://github.com/harishvardhan27/IntelliSafe/tree/main/StudentApp/assets/IMG-20250727-WA0003.jpg)
-![App Screenshot](https://github.com/harishvardhan27/IntelliSafe/tree/main/StudentApp/assets/IMG-20250727-WA0004.jpg)
-![App Screenshot](https://github.com/harishvardhan27/IntelliSafe/tree/main/StudentApp/assets/IMG-20250727-WA0005.jpg)
+![App Screenshot 1](https://raw.githubusercontent.com/harishvardhan27/IntelliSafe/main/StudentApp/assets/IMG-20250727-WA0001.jpg)
+![App Screenshot 2](https://raw.githubusercontent.com/harishvardhan27/IntelliSafe/main/StudentApp/assets/IMG-20250727-WA0002.jpg)
+![App Screenshot 3](https://raw.githubusercontent.com/harishvardhan27/IntelliSafe/main/StudentApp/assets/IMG-20250727-WA0003.jpg)
+![App Screenshot 4](https://raw.githubusercontent.com/harishvardhan27/IntelliSafe/main/StudentApp/assets/IMG-20250727-WA0004.jpg)
+![App Screenshot 5](https://raw.githubusercontent.com/harishvardhan27/IntelliSafe/main/StudentApp/assets/IMG-20250727-WA0005.jpg)
+
 
  🚀 How to Run
 
