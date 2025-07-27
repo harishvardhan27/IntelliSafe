@@ -9,7 +9,9 @@
 
 🎬 [Drone Virtual simulation video](https://drive.google.com/file/d/1twRO0MT6yj-fTF7XfS3YZaCMWhmYjBGn/view?usp=drive_link)
 
-🎬 [Drone video footage simulation](https://drive.google.com/file/d/18w3gA033f3Tnh-ph7lv73IPrMFcLwPmS/view?usp=drive_link/https://drive.google.com/file/d/18w3gA033f3Tnh-ph7lv73IPrMFcLwPmS/view?usp=drive_link)
+🎬 [Drone video footage simulation](https://drive.google.com/file/d/18w3gA033f3Tnh-ph7lv73IPrMFcLwPmS/view?usp=drive_link)
+
+🎬 [Drone video footage simulation](/https://drive.google.com/file/d/18w3gA033f3Tnh-ph7lv73IPrMFcLwPmS/view?usp=drive_link)
 ---
 
 ## 📁 Repository Structure
