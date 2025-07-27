@@ -6,9 +6,10 @@
 
 
 🎬 [STUDEN APP DEMO](https://drive.google.com/file/d/1gtr3NkLJ3RYGVcfHeC25SI3CYkBZKmyV/view?usp=drive_link)
-🎬 [Drone Virtual simulation video](https://drive.google.com/file/d/1twRO0MT6yj-fTF7XfS3YZaCMWhmYjBGn/view?usp=drive_link))
 
-🎬 [Drone video footage simulation](drone-sim-app/drone_night_feed_demo.mp4)
+🎬 [Drone Virtual simulation video](https://drive.google.com/file/d/1twRO0MT6yj-fTF7XfS3YZaCMWhmYjBGn/view?usp=drive_link)
+
+🎬 [Drone video footage simulation](https://drive.google.com/file/d/18w3gA033f3Tnh-ph7lv73IPrMFcLwPmS/view?usp=drive_link)/(https://drive.google.com/file/d/18w3gA033f3Tnh-ph7lv73IPrMFcLwPmS/view?usp=drive_link)
 ---
 
 ## 📁 Repository Structure
