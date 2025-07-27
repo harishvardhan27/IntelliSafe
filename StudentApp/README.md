@@ -6,6 +6,12 @@ A lightweight React Native (Expo) app for campus safety. Students can authentica
 - File an incident report.
 - See emergency contact numbers.
 
+![App Screenshot](assets/IMG-20250727-WA0001.jpg)
+![App Screenshot](assets/IMG-20250727-WA0002.jpg)
+![App Screenshot](assets/IMG-20250727-WA0003.jpg)
+![App Screenshot](assets/IMG-20250727-WA0004.jpg)
+![App Screenshot](assets/IMG-20250727-WA0005.jpg)
+
  🚀 How to Run
 
 Prerequisites
