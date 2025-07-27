@@ -1,3 +1,83 @@
+```markdown
+# IntelliSafe StudentApp
+
+A lightweight React Native (Expo) app for campus safety. Students can authenticate using their register number and:
+- Tap a panic button to alert campus security if they feel threatened by a stalker.
+- File an incident report.
+- See emergency contact numbers.
+
+ 🚀 How to Run
+
+Prerequisites
+
+- Node.js v14+ and npm or yarn
+- Expo CLI (`npm install -g expo-cli`)
+- Android/iOS device with [Expo Go](https://expo.dev/client) app installed, or emulator/simulator
+
+1. Clone the Repo
+
+```
+git clone https://github.com/harishvardhan27/IntelliSafe.git
+cd IntelliSafe/StudentApp
+```
+
+ 2. Install Dependencies
+
+```
+npm install
+# or
+yarn install
+```
+
+3. Configure API Endpoint
+
+Copy `.env.example` to `.env`, and fill in your backend API URL:
+```
+API_BASE_URL=https://your-server.example.com/api
+```
+
+4. Run the App
+```
+expo start
+```
+- Scan QR with Expo Go on your device, or
+- Press `a` (Android emulator) or `i` (iOS simulator on Mac)
+
+5. Usage
+
+- Log in with your register number
+- Use the #Panic button for immediate emergency alert
+- File incident reports via the app form
+- Tap menu for Emergency Contacts
+
+📁 Structure
+
+```
+StudentApp/
+├── src/components/
+│   ├── Home.js
+│   ├── ReportIncident.js
+│   ├── EmergencyContacts.js
+│   └── MyReports.js
+├── App.js
+├── .env.example
+└── ...
+```
+
+📝 Minimal API Endpoints Expected
+
+- `POST /panic`
+- `POST /incidents`
+- `GET /emergency-contacts`
+- `GET /my-reports?userId=`
+
+---
+
+> For more info or backend setup, see the [main IntelliSafe repo](https://github.com/harishvardhan27/IntelliSafe).
+```
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
