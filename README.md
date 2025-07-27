@@ -5,6 +5,7 @@
 # Video links:
 🎬 [Student app video](StudentApp/app-demo.mp4)
 
+🎬 [STUDEN APP DEMO](https://drive.google.com/file/d/1gtr3NkLJ3RYGVcfHeC25SI3CYkBZKmyV/view?usp=drive_link)
 🎬 [Drone Virtual simulation video](drone-sim-app/drone_demo(1).mp4)
 
 🎬 [Drone video footage simulation](drone-sim-app/drone_night_feed_demo.mp4)
